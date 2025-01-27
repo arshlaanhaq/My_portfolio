@@ -101,7 +101,7 @@ export default function App() {
                     Tech Stack: Node.js, Express.js, MongoDB, Stripe.</p>
                   <div className="project-links">
                     <a href="https://github.com/arshlaanhaq/artistome-" className="button">git checkout <ExternalLink size={16} /></a>
-                    <a href="https://artistome.netlify.app" className="button button-preview">Live Preview <Globe size={16} /></a>
+                    <a href="https://github.com/arshlaanhaq/artistome-" className="button button-preview">Live Preview <Globe size={16} /></a>
                   </div>
                 </div>
               </div>
