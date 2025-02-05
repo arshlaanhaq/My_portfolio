@@ -148,10 +148,26 @@ export default function App() {
                 <div className="project-content">
                   <h3>{'<Chef-Claude(AI) />'}</h3>
                   <p>Chef-Claude is a recipe discovery web application where users can input ingredients, and the AI fetches delicious recipes
-                     based on the provided ingredients. The project leverages Vite with React for a fast and efficient frontend experience.</p>
+                    based on the provided ingredients. The project leverages Vite with React for a fast and efficient frontend experience.</p>
                   <div className="project-links">
                     <a href="https://github.com/arshlaanhaq/Chef-claude" className="button">git checkout <ExternalLink size={16} /></a>
                     <a href="https://chef-cladue.netlify.app" className="button button-preview">Live Preview <Globe size={16} /></a>
+                  </div>
+                </div>
+              </div>
+              <div className="project-card">
+                <img
+                  className="project-image"
+                  src="https://i.imgur.com/XV6IzSD.png"
+                  alt="chef-claude"
+                />
+                <div className="project-content">
+                  <h3>{'<Blog Management System />'}</h3>
+                  <p>The Blog Management System is a full-stack web application that enables users to create, edit, delete, and 
+                    read blogs.It provides a seamless and responsive user experience with secure authentication and database management.</p>
+                  <div className="project-links">
+                    <a href="https://github.com/arshlaanhaq/blog_management_system" className="button">git checkout <ExternalLink size={16} /></a>
+                    <a href="https://blog-management-sys.netlify.app" className="button button-preview">Live Preview <Globe size={16} /></a>
                   </div>
                 </div>
               </div>
