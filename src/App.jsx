@@ -234,7 +234,7 @@ Tech Stack: React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Cloudinary.</p
 Tech Stack: React.js, Node.js, Express.js, MongoDB, Tailwind CSS.</p>
                     <div className="project-links">
                       <a href="https://github.com/arshlaanhaq/email-builder" className="button">git checkout <ExternalLink size={16} /></a>
-                      <a href="https://email-template-builder.netlify.app" className="button button-preview">Live Preview <Globe size={16} /></a>
+                      <a href="https://email-template-buillder.netlify.app" className="button button-preview">Live Preview <Globe size={16} /></a>
                     </div>
                   </div>
                 </div>
