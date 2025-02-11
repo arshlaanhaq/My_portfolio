@@ -426,10 +426,10 @@ Tech Stack: React.js, Node.js, Express.js, MongoDB, Tailwind CSS.</p>
               <a href="https://github.com/arshlaanhaq" aria-label="GitHub">
                 <Github size={20} />
               </a>
-              <a href="https://linkedin.com/in/arshlaanhaq" aria-label="LinkedIn">
+              <a href="https://www.linkedin.com/in/arshlaan-haque-4a37a2205" aria-label="LinkedIn">
                 <Linkedin size={20} />
               </a>
-              <a href="mailto:arshlaanhaq@gmail.com" aria-label="Email">
+              <a href="mailto:arshlaanhaq005@gmail.com" aria-label="Email">
                 <Mail size={20} />
               </a>
             </div>
