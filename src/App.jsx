@@ -217,7 +217,7 @@ Tech Stack: Node.js, Express.js, MongoDB, Stripe.</p>
 Tech Stack: React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Cloudinary.</p>
                     <div className="project-links">
                       <a href="https://github.com/arshlaanhaq/task-feed-management" className="button">git checkout <ExternalLink size={16} /></a>
-                      <a href="https://task-feed.netlify.app" className="button button-preview">Live Preview <Globe size={16} /></a>
+                      <a href="https://task-feed-management.netlify.app/" className="button button-preview">Live Preview <Globe size={16} /></a>
                     </div>
                   </div>
                 </div>
