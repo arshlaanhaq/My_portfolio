@@ -13,7 +13,7 @@ const Resume = lazy(() => import('./components/Resume'));
 const Skills = lazy(() => import('./components/Skills'));
 const Contact = lazy(() => import('./components/Contact'));
 
-export default function App() {
+function App() {
   const [formState, handleSubmit] = useForm("xdkkqrod");
   const [formData, setFormData] = useState({
     name: '',
@@ -176,3 +176,4 @@ export default function App() {
   );
 }
 
+export default App;
