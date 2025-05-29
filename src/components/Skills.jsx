@@ -11,6 +11,15 @@ export default function Skills() {
       <div className="container">
         <h2 className="section-title">skills.tech()</h2>
         <div className="skills-container">
+              <div className="skill-item">
+            <div className="skill-header">
+              <span className="skill-name">C/C++</span>
+              <span className="skill-percentage">90%</span>
+            </div>
+            <div className="skill-bar">
+              <div className="skill-progress" style={{ width: '90%' }}></div>
+            </div>
+          </div>
           <div className="skill-item">
             <div className="skill-header">
               <span className="skill-name">JavaScript</span>

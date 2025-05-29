@@ -35,7 +35,7 @@ export default function Resume() {
           </div>
           <div className="resume-preview">
             <img 
-              src="https://i.imgur.com/PXissmp.png" 
+              src="https://i.postimg.cc/Y9knNQWW/Screenshot-2025-05-29-151118.png" 
               alt="Resume Preview" 
               className="resume-preview-image"
               loading="lazy"
