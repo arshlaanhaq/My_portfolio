@@ -17,7 +17,7 @@ export default function Resume() {
             <p>Download my resume to learn more about my experience, skills, and qualifications.</p>
             <div className="resume-buttons">
               <a 
-                href="https://docs.google.com/document/d/11yGeYlNFUIXE0t74bW7x5ffD6uaJ15M_t5rg0sgRgng/export?format=pdf" 
+                href="https://docs.google.com/document/d/1nZEAp3EIBnDQndgXUD1o_adb4hYBKlocw8aDwj5YVSo/export?format=pdf" 
                 className="button" 
                 download
               >
@@ -25,7 +25,7 @@ export default function Resume() {
               </a>
 
               <a 
-                href="https://docs.google.com/document/d/11yGeYlNFUIXE0t74bW7x5ffD6uaJ15M_t5rg0sgRgng/export?format=docx" 
+                href="https://docs.google.com/document/d/1nZEAp3EIBnDQndgXUD1o_adb4hYBKlocw8aDwj5YVSo/export?format=docx" 
                 className="button" 
                 download
               >
